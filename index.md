@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Eraaly's blog here!"
 ---
 
-I'm glad you are here. I plan to talk about ...
+[Check my latest project on Django](https://github.com/rlbk2108/Final-Project)
